@@ -1,9 +1,9 @@
 # Gabriel Villa
 
-**`Backend Developer`**
+**`Backend Developer`** 
 
 Mi description...
-
+😊
 ---
 
 ### 🧰 Languages and Tools
