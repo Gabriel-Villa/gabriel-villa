@@ -1,9 +1,7 @@
 # Gabriel Villa
 
-**`Backend Developer`** 
+Hi! I'm Gabriel, a developer with more than 2 years of experience. I consider myself a proactive, responsible and self-taught person, always seeking to increase my knowledge 😊. My main stack is Laravel and Vue Js, but I also have experience in other technologies like: WordPress, Docker, AWS and Linux.
 
-Mi description...
-😊
 ---
 
 ### 🧰 Languages and Tools
