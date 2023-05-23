@@ -30,4 +30,9 @@ Hi! I'm Gabriel, a developer with more than 2 years of experience. I consider my
 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ansible/ansible-original.svg" />
+
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg" />
+
+
 <br />
