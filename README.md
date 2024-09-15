@@ -1,6 +1,8 @@
 # Gabriel Villa
 
-Hi! I'm Gabriel, a developer with more than 2 years of experience. I consider myself a proactive, responsible and self-taught person, always seeking to increase my knowledge 😊. My main stack is Laravel and Vue Js, but I also have experience in other technologies like: WordPress, Docker, AWS and Linux.
+Hey! I am Gabriel, a Full Stack Developer with more than 4 years of experience as a programmer working for both national and international companies. I consider myself a proactive person, fast with my tasks, responsible and self-taught, always seeking to increase my knowledge 🚀.
+
+My main stack is Laravel and Vue Js, but I also have experience in other technologies such as: Node JS, MySQL, Inertia, PostgreSQL, WordPress, YII, Docker, Amazon Web Services (AWS), Microsoft Azure, OpenAI | MongoDB, Redis.
 
 ---
 
